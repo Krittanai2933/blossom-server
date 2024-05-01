@@ -22,6 +22,7 @@ discovery:
       - wss://nostr.wine
       - wss://nos.lol
       - wss://nostr-pub.wellorder.net
+      - wss://siamstr.com
   # find files by asking upstream CDNs
   # NOTE: do not set this to your own server, it will create an infinite loop
   upstream:
